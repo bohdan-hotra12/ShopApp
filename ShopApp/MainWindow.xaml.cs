@@ -9,6 +9,7 @@ namespace ShopApp
         public MainWindow()
         {
             InitializeComponent();
+            // test
         }
 
         private void AddItem_Click(object sender, RoutedEventArgs e)
