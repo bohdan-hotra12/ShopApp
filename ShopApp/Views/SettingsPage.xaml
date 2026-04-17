@@ -1,0 +1,7 @@
+﻿<Page x:Class="ShopApp.Views.SettingsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+
+    <StackPanel Margin="20">
+        <TextBlock Text="Settings Page" FontSize="24"/>
+    </StackPanel>
+</Page>
